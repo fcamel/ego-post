@@ -1,0 +1,4 @@
+# -*- encoding: utf8 -*-
+
+# When using apache2, you need to assign it manually.
+CODE_ROOT = '/path/to/here'  # `hg root`.
